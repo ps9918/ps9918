@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pooja Shah
 - 👀 I’m interested in making Machines learn themselves
 - 🌱 I’m currently learning Machine learning, Deep learning
-- 💞️ I’m looking to collaborate on interesting problems using Machine learning
+- 💞️ I’m looking to collaborate on solving interesting problems using Machine learning
 - 📫 How to reach me ...
 
 <!---
