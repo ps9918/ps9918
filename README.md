@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pooja Shah
 - 👀 I’m interested in making Machines learn themselves
-- 🌱 I’m currently working on Machine learning, Deep learning problems. 
+- 🌱 I’m currently developing solutions for Machine learning, Deep learning problems. 
 - 💞️ I’m looking to collaborate on solving interesting problems using Machine learning
 - 📫 Contact me at pshah9918@gmail.com
 
