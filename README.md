@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pooja Shah
-- 👀 I’m interested in making Machines learn themselves
-- 🌱 I’m currently developing solutions for Machine learning, Deep learning problems. 
-- 💞️ I’m looking to collaborate on solving interesting problems using Machine learning
+- 👀 I help companies leverage AI/ML to grow their business
+- 🌱 I’m currently developing solutions with Generative AI and predictive ML. 
+- 💞️ I’m looking to collaborate on solving interesting problems with AI.
 - 📫 Contact me at pshah9918@gmail.com
 
 <!---
