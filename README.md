@@ -2,7 +2,7 @@
 - 👀 I help companies leverage AI/ML to grow their business
 - 🌱 I’m currently developing solutions with Generative AI, NLP and predictive ML. 
 - 💞️ Always excited to collaborate on solving interesting problems with AI.
-- 📫 For collab: contact me at pshah9918@gmail.com
+- 📫 For collab: surely reach me out at pshah9918@gmail.com
 
 <!---
 ps9918/ps9918 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
