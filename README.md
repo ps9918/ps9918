@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pooja Shah
 - 👀 I help companies leverage AI/ML to grow their business
-- 🌱 I’m currently developing solutions with Generative AI and predictive ML. 
-- 💞️ I’m looking to collaborate on solving interesting problems with AI.
+- 🌱 I’m currently developing solutions with Generative AI, NLP and predictive ML. 
+- 💞️ Always excited to collaborate on solving interesting problems with AI.
 - 📫 For collab: contact me at pshah9918@gmail.com
 
 <!---
