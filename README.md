@@ -65,5 +65,5 @@ I build **scalable AI/ML solutions** that drive real-world impact. With **6+ yea
 ## 🤝 Let’s Connect
 Open to **cutting-edge AI/ML collaborations and challenging projects**.  
 
-📫 Email: [pshah991@gmail.com](mailto:pshah9918@gmail.com)  
+📫 Email: [pshah9918@gmail.com](mailto:pshah9918@gmail.com)  
 💼 Top Rated Plus AI/ML engineer Upwork: [Pooja Shah](https://www.upwork.com/freelancers/poojas105)
