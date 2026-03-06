@@ -10,7 +10,7 @@ AI/ML Engineer | Generative AI | AI Agents | MCP | NLP | Predictive Modeling | X
 ---
 
 ## 🌟 About Me
-I build **scalable AI/ML solutions** that drive real-world impact. With **6+ years of experience**, I’ve delivered **production-ready AI cloud native solutions globally (clients include Fortune 50 companies)**, transforming **complex business problems into intelligent systems**.  
+I build **scalable AI/ML solutions** that drive real-world impact. With **6+ years of experience**, I’ve delivered **production-ready AI cloud native solutions globally (clients include Fortune 50 companies and startups)**, transforming **complex business problems into intelligent systems**.  
 
 - 💡 **Specialties:** Generative AI, NLP, Predictive Modeling, XAI, Deep Learning, AI System Design  
 - 🚀 **Mission:** Create robust, scalable AI solutions that generate measurable business value  
@@ -60,7 +60,7 @@ I build **scalable AI/ML solutions** that drive real-world impact. With **6+ yea
 
 ## 💡 Approach & Mindset
 - Build **end-to-end ML systems** from data ingestion to production deployment  
-- Deliver **high-impact solutions for enterprise-scale systems**  
+- Deliver **high-impact solutions for enterprise-scale systems and startups**  
 - Create **interpretable, explainable AI** that stakeholders trust  
 - Solve problems **independently and at scale**, while collaborating across teams  
 - Mentor and guide teams on **ML best practices and AI strategy**  
