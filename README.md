@@ -1,6 +1,6 @@
 <p align="center">
   
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczI3bzdwdTMxNWF4bGozamdwaDI2NjExdWZoc2o1OTF2MTdyZGt6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NXEuPHCOiJujANVznL/giphy.gif" width="80" alt="waving hand"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80" alt="waving hand"/>
 </p>
 
 # 👋 Hi, I'm Pooja Shah
