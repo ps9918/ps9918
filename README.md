@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pooja Shah
 
-AI/ML Engineer | Generative AI | NLP | Predictive Modeling | XAI | Independent Contributor | Top 3% on Upwork, Top Rated Plus
+AI/ML Engineer | Generative AI | AI Agents | MCP | NLP | Predictive Modeling | XAI | Independent Contributor | Top 3% on Upwork, Top Rated Plus
 
 ---
 
@@ -13,7 +13,7 @@ I build **scalable AI/ML solutions** that drive real-world impact. With **6+ yea
 ---
 
 ## 🔭 Current Focus
-- Generative AI applications for automation and content generation  
+- Generative AI applications for automation and content generation, voice agents and more..  
 - NLP pipelines for large-scale knowledge extraction and conversational AI  
 - Predictive ML models for forecasting and decision-making  
 - Explainable AI (XAI) for transparent, trustworthy ML  
@@ -32,6 +32,11 @@ I build **scalable AI/ML solutions** that drive real-world impact. With **6+ yea
   <img alt="LangChain" src="https://img.shields.io/badge/-LangChain-2E2E2E?style=for-the-badge&logo=langchain&logoColor=white"/>
   <img alt="SHAP" src="https://img.shields.io/badge/-SHAP-FF9900?style=for-the-badge&logo=shap&logoColor=white"/>
   <img alt="LIME" src="https://img.shields.io/badge/-LIME-32CD32?style=for-the-badge&logo=lime&logoColor=white"/>
+
+  <!-- AI Agents -->
+  <img alt="AI Agents" src="https://img.shields.io/badge/-AI%20Agents-FF4500?style=for-the-badge&logo=chatgpt&logoColor=white"/>
+  <img alt="Autonomous Agents" src="https://img.shields.io/badge/-Autonomous%20Agents-1E90FF?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img alt="Agentic LangChain" src="https://img.shields.io/badge/-LangChain%20Agents-2E2E2E?style=for-the-badge&logo=langchain&logoColor=white"/>
 
   <!-- Databases & Vector DB -->
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
